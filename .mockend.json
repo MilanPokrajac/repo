@@ -1,8 +1,10 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "ErrorLog": {
+    "Machine Name": "string",
+    "Date": "date",
+    "Description": "string",
+    "Exception Type": "string",
+    "Stack Trace": "string",
+    
   }
 }
