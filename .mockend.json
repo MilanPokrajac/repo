@@ -1,10 +1,9 @@
 {
-  "ErrorLog": {
-    "Machine Name": "string",
+  "Error": {
+    "MachineName": "string",
     "Date": "date",
     "Description": "string",
-    "Exception Type": "string",
-    "Stack Trace": "string",
-    
+    "ExceptionType": "string",
+    "StackTrace": "string"  
   }
 }
